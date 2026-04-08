@@ -20,3 +20,16 @@
 + Developed UI prototypes (Figma) and supported UAT to validate business requirements
 #### Link Document: https://drive.google.com/file/d/1sra7jkozm7MvzjxZcAHs6N5KHV-CYZZF/view?usp=sharing
 #### Link Figma: https://www.figma.com/design/0HuT2Gl1auxDNhOQUoVtmM/Coffee-Delivery-App?node-id=0-1&p=f&t=VyQsHtjLQEbyWkWn-0
+
+## CODING PROJECT 3:  UEH STATIONERY WEBSITE
+#### Discription: Developed “UEH Stationery” an e-commerce web application providing students with easy access to books and stationery, integrating modern UI/UX design, responsive front-end technologies, and robust database-driven back-end to enhance convenience and promote digital commerce in the university community.
+#### Role: Web Developer
++ Designed UI/UX prototypes with Figma for intuitive and responsive layouts.
++ Built front-end using HTML5, CSS, and Bootstrap to ensure cross-device compatibility.
++ Added interactivity and dynamic features with JavaScript.
++ Developed back-end logic in PHP and integrated with MySQL/SQL Server databases.
++ Managed data operations with SQL queries for secure and efficient access.
++ Deployed and maintained the website on server for stable real-world use.
+#### Link Github: [https://github.com/nguyennhuy-0804/Stationery_WEB_Bootstrap.git](https://github.com/nguyennhuy-0804/Stationery_WEB_Bootstrap/tree/develop)
+
+
