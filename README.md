@@ -32,4 +32,25 @@
 + Deployed and maintained the website on server for stable real-world use.
 #### Link Github: [https://github.com/nguyennhuy-0804/Stationery_WEB_Bootstrap.git](https://github.com/nguyennhuy-0804/Stationery_WEB_Bootstrap/tree/develop)
 
+## DATA ANALYST PROJECT 4: Big Data Supply Chain Analysis with Spark MLlib and Spark-SQL
+#### Discription: Big Data project using Spark SQL and Hadoop to extract and analyze customer, inventory, logistics, and revenue data, applying time series analysis and machine learning for actionable business insights.
+#### Role: Data Analyst 
++ Processed and analyzed big data sets using Spark SQL for efficient querying and aggregation.
++ Performed product profitability clustering and customer segmentation using Python and K-Means.
++ Applied predictive analytics and sales forecasting with Prophet to guide strategic decision-making.
++ Implemented machine learning models, including Logistic Regression and Random Forest, to identify churn risk and key business drivers.
++ Visualized insights through charts and reports to support actionable recommendations.
+#### Link Github: https://github.com/nguyennhuy-0804/Big-Data-Supply-Chain-Analysis-with-Spark-MLlib-and-Spark-SQL.git
+
+## UI/UX PROJECT 5: Wanderly – Online Travel Agency Application
+#### Discription: Designed and developed the user interface for “Wanderly,” an online travel booking platform.
+#### Role: UI/UX Developer
++ Interactive homepage with smooth loading animations
++ Secure login and registration pages, including “Forgot Password” functionality
++ Dynamic tour and promotion pages featuring an engaging carousel for vouchers and special offers
++ Streamlined tour booking flow
++ Integrated payment system and booking history tracking
+#### Link Github: https://www.figma.com/design/Af8EgfunDRDVlZz9To5bN9/OTA-Application?node-id=8-52&p=f&t=VyQsHtjLQEbyWkWn-0
+
+
 
